@@ -1,7 +1,3 @@
-# Dealership Review Application
+Repository Name: xrwvm-fullstack_developer_capstone
 
-## Repository Name
-dealership-review-app
-
-## Project Name
-Dealership Review Application
+Project Name: Dealership Review Application
